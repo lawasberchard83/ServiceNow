@@ -48,7 +48,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-09-30 06:15:05</sys_created_on>
-        <sys_id>56058acfd56303107f44ddb99996025d</sys_id>
         <sys_name>Start date</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">892486f888e303107f44c29a4832c91d</sys_package>
         <sys_policy/>
