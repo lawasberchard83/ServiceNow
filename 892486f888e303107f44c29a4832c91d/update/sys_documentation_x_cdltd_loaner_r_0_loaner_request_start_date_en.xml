@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="start_date" label="Start date" language="en" table="x_cdltd_loaner_r_0_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <help/>
+            <hint/>
+            <label>Start date</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_r_0_loaner_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-30 06:15:05</sys_created_on>
+            <sys_id>96058acfd56303107f44ddb99996026d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Start date</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">892486f888e303107f44c29a4832c91d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">892486f888e303107f44c29a4832c91d</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_r_0_loaner_request_start_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-30 06:15:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
